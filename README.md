@@ -15,6 +15,6 @@ The system uses 15 medical parameters such as age, sex, blood pressure, choleste
 ```
 git clone https://github.com/sagnikghoshcr7/Heart-Disease-Prediction.git
 ```
-3. install required python packages if previously not installed
+2. install required python packages if previously not installed
 
-4. Finally run on Jupyter Notebook and enjoy 😉
+3. Finally run on Jupyter Notebook and enjoy 😉
